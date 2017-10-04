@@ -1,0 +1,42 @@
+#branding #hgroup_branding_wrapper {
+    background-image: url(../images/brandingBg.png);
+}
+
+input[type="submit"] {
+   background-color: #0f6ac5;
+}
+
+a {
+   color: #0f6ac5;
+}
+
+.entry-header {
+   background-image: url(../images/entryHeaderBgOverride.png);
+}
+
+#text-4 a:visited, .widget_qtranslate a:visited {
+    color: #0f6ac5;
+}
+
+#text-4 a:hover {
+    color: #fff;
+}
+
+.widget_qtranslate .active a {
+    color: #fff;
+    background-color: #0f6ac5;
+    background-color: #000;
+    color: #fff;
+}
+
+.sociable-hovers {
+    opacity: 1 !important;
+}
+
+#page .sociable a:hover {
+    background-color: transparent;
+}
+
+#page .suboptions a:hover, #page #text-4 p:first-child a:hover {
+   background-color: #fff;
+}
